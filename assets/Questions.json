@@ -94,7 +94,7 @@
                 "schema": {
                     "name": "Existing bank where loan exists",
                     "label": "Existing bank where loan existse",
-                    "hidden": "balance-transfer-top-up",
+                    "hidden": false,
                     "readonly": false,
                     "options": [
                         {
